@@ -1,13 +1,13 @@
-# Hi, I'm Aldo 👋
+# Hi, I'm Aldo 
 
-### 🚀 CS Student at Faculty of Sciences - UNAM
+### CS Student at Faculty of Sciences - UNAM
 Passionate about **AI**, **Machine Learning**, and **Cybersecurity**. Experienced in **Backend Development**.
 
 ---
 
-### 🛠️ Skills
+### Skills
 
-#### 💻 Programming Languages
+#### Programming Languages
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
@@ -21,7 +21,7 @@ Passionate about **AI**, **Machine Learning**, and **Cybersecurity**. Experience
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-stats-extended.vercel.app/api?username=aldogonzalez2006&show_icons=true&theme=highcontrast&hide_border=true" />
@@ -35,5 +35,5 @@ Passionate about **AI**, **Machine Learning**, and **Cybersecurity**. Experience
 ---
 
 <p align="center">
-  <i>💡 "Constantly learning and building scalable solutions."</i>
+  <i> "Trying to improve"</i>
 </p>
