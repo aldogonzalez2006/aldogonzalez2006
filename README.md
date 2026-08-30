@@ -1,7 +1,7 @@
 # Hi, I'm Aldo 
 
 ### CS Student at Faculty of Sciences - UNAM
-### Open Source at LIDSOL
+### Open Source Contributor at LIDSoL
 Passionate about **AI**, **Machine Learning**, and **Cybersecurity**. Experienced in **Backend Development**.
 
 ---
