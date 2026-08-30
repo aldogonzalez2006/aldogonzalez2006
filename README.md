@@ -1,31 +1,31 @@
-# Hi, I'm Aldo
+# Hi, I'm Aldo 👋
 
-### CS Student at Faculty of Sciences - UNAM
+### 🚀 CS Student at Faculty of Sciences - UNAM
 Passionate about **AI**, **Machine Learning**, and **Cybersecurity**. Experienced in **Backend Development**.
 
 ---
 
-### Skills
+### 🛠️ Skills
 
-#### Programming Languages
+#### 💻 Programming Languages
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-#### Backend Development
+#### ⚙️ Backend Development
 <p align="left">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
 </p>
 
 ---
 
-### GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aldogonzalez2006&show_icons=true&theme=highcontrast&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldogonzalez2006&layout=compact&theme=highcontrast&hide_border=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=aldogonzalez2006&show_icons=true&theme=highcontrast&hide_border=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=aldogonzalez2006&layout=compact&theme=highcontrast&hide_border=true" />
 </p>
 
 <p align="center">
@@ -35,5 +35,5 @@ Passionate about **AI**, **Machine Learning**, and **Cybersecurity**. Experience
 ---
 
 <p align="center">
-  <i> "Trying to improve."</i>
+  <i>💡 "Constantly learning and building scalable solutions."</i>
 </p>
