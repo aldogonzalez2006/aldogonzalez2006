@@ -1,43 +1,49 @@
-# ¡Hola! Soy Aldo 👋
+# Hi, I'm Aldo 👋
 
-> "I use Arch, btw" 🚀
+### 🚀 CS Student at Faculty of Sciences - UNAM
+Passionate about **AI**, **Machine Learning**, and **Cybersecurity**. Experienced in **Backend Development**.
 
 ---
 
-### 💻 Tecnologías
+### 🛠️ Skills
 
+#### 💻 Programming Languages
 <p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
 
-### 🛠️ Herramientas
-
+#### ⚙️ Backend Development
 <p align="left">
-  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
 </p>
 
 ---
 
-### 📊 Estadísticas de GitHub
-
-<p align="center">
-  <!-- Tarjeta de GitHub Stats (Lenguajes más usados) -->
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=tokyonight&hide_border=true" />
-  
-  <!-- Tarjeta de GitHub Streak Stats (Racha de commits) -->
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=TU-USUARIO&theme=tokyonight&hide_border=true" />
-</p>
+### 📊 GitHub Stats
 
 <p align="center">
   <!-- Tarjeta de Estadísticas Generales -->
-  <img src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=aldogonzalez2006&show_icons=true&theme=highcontrast&hide_border=true" alt="Aldo's GitHub Stats" />
+  </a>
+  
+  <!-- Tarjeta de Lenguajes más Usados -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldogonzalez2006&layout=compact&theme=highcontrast&hide_border=true" alt="Top Languages" />
+  </a>
+</p>
+
+<p align="center">
+  <!-- Tarjeta de Racha de Commits (Streak) -->
+  <a href="https://git.io/streak-stats">
+    <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=aldogonzalez2006&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>💡 "Constantly learning and building scalable solutions."</i>
 </p>
