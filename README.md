@@ -1,4 +1,4 @@
-# Hi, I'm Aldo 
+# Hi, I'm Aldo
 
 ### CS Student at Faculty of Sciences - UNAM
 Passionate about **AI**, **Machine Learning**, and **Cybersecurity**. Experienced in **Backend Development**.
@@ -21,11 +21,11 @@ Passionate about **AI**, **Machine Learning**, and **Cybersecurity**. Experience
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=aldogonzalez2006&show_icons=true&theme=highcontrast&hide_border=true" />
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aldogonzalez2006&layout=compact&theme=highcontrast&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aldogonzalez2006&show_icons=true&theme=highcontrast&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldogonzalez2006&layout=compact&theme=highcontrast&hide_border=true" />
 </p>
 
 <p align="center">
